@@ -1,1 +1,2 @@
-# Project-83
+# spectagram-stage-3
+project solution for c83
